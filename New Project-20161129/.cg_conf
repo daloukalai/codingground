@@ -1,0 +1,1 @@
+{"id":"cpp0x","ext":"cpp","version":"GNU GCC v4.9.2","compile":"g++ -std=c++0x -o main *.cpp","execute":"main","preview":"","command":"","file":"/home/cg/src/samples/main.cpp","url":"compile_cpp0x_online.php","mode":"c_cpp"}
